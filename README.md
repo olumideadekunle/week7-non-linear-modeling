@@ -92,8 +92,4 @@ This project is licensed under the **MIT License** – feel free to use and adap
 
 
 
- *This repo is part of my growing Machine Learning portfolio.*
-
-
-
-👉 Would you like me to also draft a **`requirements.txt` file** (so others can run your notebook easily), or should we just keep the README for now?
+ This repo is part of my growing Machine Learning portfolio.
